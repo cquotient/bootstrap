@@ -7116,3 +7116,8 @@ td.visible-print {
     display: none !important;
   }
 }
+
+.nav-pills > .active > a:focus {
+  font-weight: bold;
+  color: #db0d5f;
+}
